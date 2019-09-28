@@ -21,7 +21,7 @@ How to run the code:
 4. Make sure to install any dependencies that you may need
 5. The test_data.npy and train_data.npy are NOT included in this git repository.
 6. IMPORTANT NOTE: If you are running the 2D CNN w/ Spectograms, make sure there is data in both the
-   /audio and /spectogram folders or else it will not work.
+   `/audio` and `/spectogram` folders or else it will not work.
 
 7. If those two folders are not present for some reason, look at running the commented out code in cells 
    7, 20, and 21. The three comments that are at the top of each cell are listed below.
