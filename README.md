@@ -25,7 +25,7 @@ How to run the code:
 
 7. If those two folders are not present for some reason, look at running the commented out code in cells 
    7, 20, and 21. The three comments that are at the top of each cell are listed below.
-   - #  Generate out the .wav files for creating the spectograms
-   - # Create spectograms for Train
-   - # Create spectograms for Test
+   - Generate out the .wav files for creating the spectograms
+   - Create spectograms for Train
+   - Create spectograms for Test
    
