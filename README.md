@@ -3,16 +3,16 @@
 
 Things that I tried:
 - 1d CNN on raw audio data
-  -  audio-binary-classification-trent-spice-1d.ipynb
+  -  `audio-binary-classification-trent-spice-1d.ipynb`
 - 2d CNN on raw audio data
-  - audio-binary-classification-trent-spice-2dCNN.ipynb
-  - audio-binary-classification-trent-spice-2dCNN-copy.ipynb
+  - `audio-binary-classification-trent-spice-2dCNN.ipynb`
+  - `audio-binary-classification-trent-spice-2dCNN-copy.ipynb`
 - 2d CNN w/ ImageDataGenerators + Spectograms
-  - audio-binary-classification-trent-spice-2dCNN-Spectogram.ipynb
+  - `audio-binary-classification-trent-spice-2dCNN-Spectogram.ipynb`
 - Variational Autoencoder 
-  - audio-binary-classification-trent-spice-vae.ipynb
-  - audio-binary-classification-trent-spice-vae-old.ipynb
-  - audio-binary-classification-trent-spice-vae-copy.ipynb
+  - `audio-binary-classification-trent-spice-vae.ipynb`
+  - `audio-binary-classification-trent-spice-vae-old.ipynb`
+  - `audio-binary-classification-trent-spice-vae-copy.ipynb`
   
 How to run the code:
 1. First make sure to start a jupyter notebook server, with `jupyter notebook`
